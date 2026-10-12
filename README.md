@@ -207,4 +207,4 @@ python pipeline/train_ensemble.py --demo --outdir outputs/demo
 
 ## Acknowledgements
 
-This project started as a team project; the held-out training stage originally came from [`Kopal2025/aesthetics_project`](https://github.com/Kopal2025/aesthetics_project). The data comes from the [Unsplash Lite dataset](https://github.com/unsplash/datasets).
+The data comes from the [Unsplash Lite dataset](https://github.com/unsplash/datasets).
