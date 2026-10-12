@@ -1,0 +1,18 @@
+# raw data and intermediate artefacts
+photos.tsv000
+photos.csv000
+*.tsv000
+*.csv000
+final_results.json
+proxy_cache.json
+exif_clean.csv
+proxy_clean.csv
+outputs/
+*.pkl
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+results/_work/
